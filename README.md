@@ -1,2 +1,2 @@
 # Portfolio
-A compilation of my developed applications 
+A compilation of my developed applications all written in java
